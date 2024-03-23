@@ -383,6 +383,7 @@ ol {
 
 .header__nav {
 	background: #dd1515;
+	height: 0px;
 }
 
 .header__nav .logo {
@@ -411,7 +412,7 @@ ol {
 .header__nav .nav-menu .main-menu li .dropdown {
 	position: absolute;
 	left: 0;
-	top: 115px;
+	top: 110px;
 	width: 180px;
 	background: #ffffff;
 	z-index: 99;
